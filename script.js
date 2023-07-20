@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let height=this.innerHeight;
 let width=this.innerWidth;
 
